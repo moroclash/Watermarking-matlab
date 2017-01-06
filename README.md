@@ -17,7 +17,7 @@
 
 ## if program make crach :
 ###### ther is becouse function caled 
-> dec2bin() > 
+> dec2bin() <
 ###### \#it is exist in matlab toolbox 
 ## To solve it: 
 ***search about problem in [mr.Google](www.google.com)*** 
