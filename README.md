@@ -12,7 +12,7 @@
      1. install matlab
      2. run matlab
      3. open Gui0.m and run it 
-     4. enjoy :simple_smile:
+     4. enjoy
 
 
 ## if program make crach :
