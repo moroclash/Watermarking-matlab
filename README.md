@@ -18,9 +18,10 @@
 ## if program make crach :
 ###### ther is becouse function caled 
 
-'''matlab 
+```matlab 
 dec2bin() 
-'''
+```
+
 
 
 ###### this problem happend because the function doesn't exist in your matlab toolbox 
