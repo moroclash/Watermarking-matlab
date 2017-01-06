@@ -20,7 +20,7 @@
 > dec2bin() 
 
 
-###### it is exist in matlab toolbox 
+###### this problem happend because the function doesn't exist in your matlab toolbox 
 ## To solve it: 
 **search about problem in [mr.Google](www.google.com)**
 
