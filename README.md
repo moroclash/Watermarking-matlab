@@ -1,17 +1,18 @@
 #         Making watermark Using LSB algorithm
-######        ** this program in matlab**
+##        *** this program in matlab***
 
-## We use OPAP Algorithm to Extract the Secret image 
+###### We use OPAP Algorithm to Extract the Secret image 
 
-# this is Simple and easy for use 
+
+###### this is Simple and easy for use 
 
 
 
 ## How i can using :
-     1. install matlab
-     2. run matlab
-     3. open Gui0.m and run it 
-     4. enjoy :simple_smile:
+   ######  1. install matlab
+   ######  2. run matlab
+   ######  3. open Gui0.m and run it 
+   ######  4. enjoy :simple_smile:
 
 
 ## if program make crach :
@@ -19,7 +20,7 @@
 > dec2bin() 
 ###### it is exist in matlab toolbox 
 ###### to solve it 
-**search about problem in mr.Google** 
+***search about problem in mr.Google*** 
 
 
 
