@@ -1,5 +1,5 @@
 #         Making watermark Using LSB algorithm
-##        ** this program in matlab**
+##           **this program in matlab**
 
 ###### We use OPAP Algorithm to Extract the Secret image 
 
@@ -19,7 +19,7 @@
 ###### ther is becouse function caled 
 
 ```matlab 
-dec2bin() 
+de2bi()     %this function to convert from decimal to binary% 
 ```
 
 
