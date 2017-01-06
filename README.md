@@ -11,13 +11,16 @@
 ## How i can using :
 *  install matlab
 *  run matlab
-*  open Gui0.m and run it 
+*  open file **Gui0.m** and run it 
 *  enjoy
 
 
 ## if program make crach :
 ###### ther is becouse function caled 
-> dec2bin() 
+
+'''matlab 
+dec2bin() 
+'''
 
 
 ###### this problem happend because the function doesn't exist in your matlab toolbox 
@@ -26,4 +29,4 @@
 
 
 
-this program build by @moroclash 
+this program build by **@moroclash** 
