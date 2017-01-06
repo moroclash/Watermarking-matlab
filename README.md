@@ -4,7 +4,8 @@
 ###### We use OPAP Algorithm to Extract the Secret image 
 
 
-###### this is Simple and easy for use 
+
+###### program is very Simple and easy for use :simple_smile:
 
 
 
