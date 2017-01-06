@@ -9,12 +9,10 @@
 
 
 ## How i can using :
-
-
-     1.  install matlab
-     2.  run matlab
-     3.  open Gui0.m and run it 
-     4.  enjoy
+*  install matlab
+*  run matlab
+*  open Gui0.m and run it 
+*  enjoy
 
 
 ## if program make crach :
